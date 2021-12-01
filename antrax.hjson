@@ -1,0 +1,25 @@
+type: flying
+speed: 1
+drag: 0.1
+accel: 0.50
+weapons: {
+   name: eruption
+   top: false
+   shootY: 3
+   reload: 9
+   ejectEffect: none
+   recoil: 1
+   x: 7
+   shootSound: flame
+   bullet: {
+      type: LiquidBulletType
+      liquid: slag
+      damage: 13
+      speed: 2.5
+      drag: 0.009
+      shootEffect: shootSmall             
+      lifetime: 57f
+      collidesAir: true
+      }
+   }
+]
