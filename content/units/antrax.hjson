@@ -4,7 +4,7 @@ drag: 0.1
 accel: 0.50
 flying: true
 engineOffset: 10
-engineSize: 3
+engineSize: 4
 lowAltitude: true
 weapons: [
    {
