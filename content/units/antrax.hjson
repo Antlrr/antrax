@@ -3,7 +3,7 @@ speed: 1
 drag: 0.1
 accel: 0.50
 flying: true
-engineOffset: 4
+engineOffset: 6
 engineSize: 3
 weapons: [
    {
