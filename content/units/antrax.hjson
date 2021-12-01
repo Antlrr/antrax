@@ -2,7 +2,8 @@ type: flying
 speed: 1
 drag: 0.1
 accel: 0.50
-weapons: {
+weapons: [
+   {
    name: eruption
    top: true
    rotate: true
