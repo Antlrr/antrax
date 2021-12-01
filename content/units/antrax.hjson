@@ -4,12 +4,13 @@ drag: 0.1
 accel: 0.50
 weapons: {
    name: eruption
-   top: false
+   top: true
+   rotate: true
    shootY: 3
    reload: 9
    ejectEffect: none
    recoil: 1
-   x: 7
+   x: 6.50
    shootSound: flame
    bullet: {
       type: LiquidBulletType
