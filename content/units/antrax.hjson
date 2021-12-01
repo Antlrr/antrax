@@ -2,6 +2,9 @@ type: flying
 speed: 1
 drag: 0.1
 accel: 0.50
+flying: true
+engineOffset: 4
+engineSize: 3
 weapons: [
    {
    name: eruption
@@ -11,7 +14,7 @@ weapons: [
    reload: 9
    ejectEffect: none
    recoil: 1
-   x: 6.50
+   x: 7.75
    shootSound: flame
    bullet: {
       type: LiquidBulletType
