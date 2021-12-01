@@ -1,0 +1,9 @@
+{
+   "name": "antrax",
+   "displayName": "Antrax",
+   "author": "Antlrr",
+   "description": "adds Antrax",
+   "version": "1.0",
+   "minGameVersion": "134",
+   "hidden": "false",
+}
